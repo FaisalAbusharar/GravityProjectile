@@ -23,6 +23,10 @@ The strength of gravity can be adjusted using the UI buttons or keyboard shortcu
 The trail behind the projectile is implemented using Unity's TrailRenderer component. This component automatically creates a trail behind the projectile as it moves, providing a visual representation of its path.
 ![alt text](./images/image.png)
 
+## Ghost Projectiles
+When the Projectile is reset, it leaves behind a trail & also a ghost variant of it's self with its position.
+![alt text](./images/image2.png)
+
 ## Getting Started
 To run the project, simply open it in the Unity editor and press play. Use the UI buttons or keyboard shortcuts to adjust the force and gravity and observe how they affect the projectile's motion.
 
