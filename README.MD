@@ -28,7 +28,10 @@ When the Projectile is reset, it leaves behind a trail & also a ghost variant of
 ![alt text](./images/imageGhost.png)
 
 ## Getting Started
+### Developer
 To run the project, simply open it in the Unity editor and press play. Use the UI buttons or keyboard shortcuts to adjust the force and gravity and observe how they affect the projectile's motion.
+### Normal User
+Download the Release from this github page, the .zip folder, extract it then run the `EffectOfGravityOnProjectile.exe` Executable.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any contributions are welcome!
