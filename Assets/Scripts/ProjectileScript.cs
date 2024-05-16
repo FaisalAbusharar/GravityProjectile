@@ -75,7 +75,7 @@ public class ProjectileScript : MonoBehaviour
 
         // ------------ UPDATE UI ------------
 
-        SpeedText.text = "SPEED: " + speed + " Px/F"; // Speed update
+        SpeedText.text = "SPEED: " + speed + " M/S"; // Speed update
         GravityDisplay.text = "Current Gravity: " + Gravity + "N";  // Gravity Update
         ForceDisplay.text = "Current Force: "  + ForceAdded + "N"; // Force Update
 
